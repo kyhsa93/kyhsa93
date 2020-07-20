@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyhsa93)](https://hits.seeyoufarm.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/younghoon-ko-b1442617b/)
+
 
 <!--
 **kyhsa93/kyhsa93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
