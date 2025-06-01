@@ -14,11 +14,6 @@ I'm mainly use Typescript(Node.js) and Golang with docker container.
 - Container and distributed container architecture
 - Microservice and event driven architecture
 
-## ⚡ Fun fact: ...
-- I love all kinds of noodles. Especially i really love spaghetti aglio olio e peperoncino
-- I like movies like About Time, Notebook or Little forest
-- I have runner-up at the sushi food fighter competition
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyhsa93)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/younghoon-ko-b1442617b/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCQr9unr1VI44EGmqEGE28gg)
