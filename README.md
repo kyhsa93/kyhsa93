@@ -11,7 +11,7 @@ I write about backend engineering — architecture, DDD, and the things that onl
 - [Side projects](https://kyhsa93.github.io/side-projects/)
 
 ## 🚀 Things I run
-- [경제·부동산 데일리 다이제스트](https://kyhsa93.github.io/econ-realestate-digest/) — daily Korean economy and real-estate dashboard built from public transaction data
+- [집계 (jipgye)](https://kyhsa93.github.io/jipgye/) — daily Seoul apartment transactions and deposit/loan rates, with rent-vs-jeonse and renewal costs worked out
 - [Toddler milestone checklist](https://kyhsa93.github.io/toddler-milestone-checklist/) — developmental checklist for 12–36 months
 - [fove](https://kyhsa93.github.io/fove/)
 
