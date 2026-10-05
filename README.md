@@ -12,7 +12,7 @@ I write about backend engineering — architecture, DDD, and the things that onl
 
 ## 🚀 Things I run
 - [집계 (jipgye)](https://kyhsa93.github.io/jipgye/) — daily Seoul apartment transactions and deposit/loan rates, with rent-vs-jeonse and renewal costs worked out
-- [Toddler milestone checklist](https://kyhsa93.github.io/toddler-milestone-checklist/) — developmental checklist for 12–36 months
+- [Toddler milestone checklist](https://kyhsa93.github.io/toddler-milestone-checklist/) — developmental milestone checklist for 2–36 months, plus a growth log
 - [fove](https://kyhsa93.github.io/fove/)
 
 ## Interests
