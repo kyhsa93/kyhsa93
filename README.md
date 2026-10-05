@@ -20,8 +20,8 @@ I write about backend engineering — architecture, DDD, and the things that onl
 
 ## 🚀 Things I run
 - [집계 (jipgye)](https://kyhsa93.github.io/jipgye/) — daily Seoul apartment transactions and deposit/loan rates, with rent-vs-jeonse and renewal costs worked out
-- [Toddler milestone checklist](https://kyhsa93.github.io/toddler-milestone-checklist/) — developmental milestone checklist for 2–36 months, plus a growth log
-- [fove](https://kyhsa93.github.io/fove/)
+- [fove](https://kyhsa93.github.io/fove/) — saju (사주) and MBTI-based fortune readings
+- See "Featured work" above for [toddler-milestone-checklist](https://github.com/kyhsa93/toddler-milestone-checklist)
 
 ## Interests
 - Container(docker) and container orchestration(Kubernetes)
